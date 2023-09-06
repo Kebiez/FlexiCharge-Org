@@ -53,7 +53,7 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 |---------------|------|
 |               |  PO  |
 |               |  SM  |
-|               |  Test Lead  |
+| [@Kebiez](https://github.com/Kebiez) |  Test Lead  |
 |               |  Developer  |
 | [@flrn579](https://github.com/flrn579) |  Developer  |
 
